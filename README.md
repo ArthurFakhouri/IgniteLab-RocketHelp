@@ -15,7 +15,7 @@
 
 ## 🈸 Projeto
 
-RocketHelp é um projeto com objetivo de controlar as solicitações de problemas, ou seja, gerenciar diversos problemas que estão em andamento e também armazenar os problemas que já foram finalizados e solucionados.
+RocketHelp é um projeto com objetivo de controlar as solicitações de problemas relacionados à equipamentos internos de uma empresa, podendo gerenciar os problemas que não foram resolvidos e os que foram resolvidos junto com suas devidas soluções.
 
 ## 🚀 Tecnologias
 
