@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🖌️ Layout
 
-Link de acesso ao layout do projeto: https://www.figma.com/community/file/1130846653327904117
+Link de acesso ao layout do projeto: [Figma - RocketHelp](https://www.figma.com/community/file/1130846653327904117)
 
 ## :memo: Licença
 Este projeto está sob a licença do MIT. Consulte a [LICENÇA](LICENSE) para obter detalhes.
